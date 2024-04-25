@@ -1,3 +1,4 @@
+# Author: Jair Amaro 
 from mpl_toolkits.mplot3d import Axes3D   # pip install mplot3d
 from matplotlib import pyplot as plt      # pip install matplotlib
 import numpy as np                        # pip install numpy
